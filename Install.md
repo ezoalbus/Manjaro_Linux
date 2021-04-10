@@ -22,7 +22,8 @@
 「ソフトウェアの追加と削除(Pamac)」から`yay`をインストール
 
 ### Google Chromeのインストール
-`yay -S google-chrome` もしくはGitHubから
+- `sudo pacman -S base-devel`
+- `yay -S google-chrome` もしくはGitHubから
 
 ### カーネルヘッダーのインストール
 - カーネルの確認
