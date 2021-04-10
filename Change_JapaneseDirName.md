@@ -13,6 +13,8 @@ sudo pacman -S xdg-user-dirs-gtk
 ```
 LC_ALL=C xdg-user-dirs-gtk-update
 ```
+---
+既存の日本語表記ディレクトリは消えないので、手動で消す。
 
 ## 参考
 - https://wiki.archlinux.org/index.php/XDG_user_directories
